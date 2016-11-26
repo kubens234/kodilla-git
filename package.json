@@ -1,0 +1,31 @@
+{
+  "name": "kodilla-projekt-grunt",
+  "version": "1.0.0",
+  "description": "Projekt grunt",
+  "main": "index.js",
+  "dependencies": {
+    "grunt-cli": "^1.2.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.1"
+  },
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubens234/kodilla-git.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Jakub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubens234/kodilla-git/issues"
+  },
+  "homepage": "https://github.com/kubens234/kodilla-git#readme"
+}
